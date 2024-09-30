@@ -1,0 +1,9 @@
+nltk
+pillow
+streamlit
+textblob
+torch
+tqdm
+transformers
+gtts
+scikit-learn
