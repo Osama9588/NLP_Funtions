@@ -1,0 +1,13 @@
+NLP functions
+-lemmatize
+-tokenize
+-stemwords
+-remove_stopwords
+-pos_tagging
+-named_entity_recognition
+-normalize_text
+-sentiment_analysis
+-generate_ngrams
+-compute_tfidf
+-summarize_text
+-text_to_speech
